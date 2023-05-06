@@ -3,11 +3,12 @@ import styled from "styled-components";
 
 const BoxEach = styled.div`
   width: 200px;
-  height: 100px;
+  height: 200px;
   margin: 50px;
-  border-radius: 30px;
-  background-color: ${(props) => (props.boxColor ? props.boxColor : "green")};
-  display: flex;
+  border-radius: 50%;
+  background-color: ${(props) => (props.CircleColor ? props.CircleColor : "green")};
+  display: inline-block;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
 `;
@@ -17,15 +18,15 @@ const BoxText = styled.p`
   font-weight: 500;
 `;
 
-const Box = (props) => {
+const Circle = (props) => {
   return (
     <>
-      <BoxEach boxColor={props.boxColor}>
-        <BoxText>{props.text}</BoxText>
+      <BoxEach CircleColor={props.CircleColor}>
+        <BoxText></BoxText>
         
       </BoxEach>
     </>
   );
 };
 
-export default Box;
+export default Circle;
