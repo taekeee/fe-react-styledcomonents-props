@@ -64,8 +64,8 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 
 # 과제 제출
 1. 과제1번, 과제2번, 과제3번 문제
-<img src="img/hw1.png">
+<img width="1239" alt="hw1" src="https://user-images.githubusercontent.com/129169639/236661135-fdb41327-62e9-4f09-ba30-0504beb4ab27.png">
 
 
 2. 과제 4번 문제
-<img src="img/hw2.png">
+<img width="1076" alt="hw2" src="https://user-images.githubusercontent.com/129169639/236661151-60a799ea-62cc-4b83-8298-8ef968c0eae5.png">
