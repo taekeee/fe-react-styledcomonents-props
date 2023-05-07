@@ -4,7 +4,6 @@ import styled from "styled-components";
 //창의 전체적인 디자인
 const BoxEach = styled.div`
 display: inline-block;
-flex-direction: row;
 background-color: gray;
 border: solid 3px white;
 border-radius: 30px;
@@ -36,8 +35,8 @@ font-size: 18px;
 
 const BoxButton = styled.p`
 text-align: center;
-margin-left: 25px;
-margin-right: 25px;
+margin-left: 10px;
+margin-right: 10px;
 background-color: ${(props) => (props.buttonColor ? props.buttonColor : "black")};
 border-radius: 30px;
 padding: 10px;
