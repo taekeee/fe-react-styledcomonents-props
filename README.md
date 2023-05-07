@@ -68,4 +68,4 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 
 
 2. 과제 4번 문제
-<img width="1076" alt="hw2" src="https://user-images.githubusercontent.com/129169639/236661151-60a799ea-62cc-4b83-8298-8ef968c0eae5.png">
+<img width="1082" alt="hw2" src="https://user-images.githubusercontent.com/129169639/236662034-dee03730-f252-4345-b31e-7692150b30b6.png">
