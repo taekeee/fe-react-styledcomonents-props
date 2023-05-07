@@ -37,7 +37,7 @@ const BoxButton = styled.p`
 text-align: center;
 margin-left: 10px;
 margin-right: 10px;
-background-color: ${(props) => (props.buttonColor ? props.buttonColor : "black")};
+background: ${(props) => (props.buttonColor ? props.buttonColor : "black")};
 border-radius: 30px;
 padding: 10px;
 font-size: 18px;
